@@ -20,7 +20,7 @@ To install the multi-track audio recorder, follow these steps:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd multi-track-audio-recorder
+    cd audio-recorder
     ```
 3. Install the required dependencies:
     ```sh
